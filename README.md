@@ -16,7 +16,7 @@ https://pub.dev/packages/lottie
 ##### Lottie archives link:
 https://lottiefiles.com
 
-##### Link to the animation used in the video:
+##### Link of the animation used in the code:
 https://lottiefiles.com/106405-energy-rocket
 
 ## Example
