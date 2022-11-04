@@ -13,7 +13,7 @@ https://pub.dev/packages/lottie
 ##### Version used in code:
 1.4.2
 
-##### Lottie Archives Link:
+##### Lottie archives link:
 https://lottiefiles.com
 
 ##### Link to the animation used in the video:
