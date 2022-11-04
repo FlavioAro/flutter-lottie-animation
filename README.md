@@ -26,7 +26,7 @@ https://lottiefiles.com/106405-energy-rocket
 
 ##### [YouTube video](https://www.youtube.com/watch?v=B0x0NjeZcG0 "Youtube Nerd Autodidata") where the *source code* is explained. [Subscribe YouTube channel.](https://www.youtube.com/NerdAutodidata?sub_confirmation=1 "YouTube Subscribe Nerd Autodidata")  
 <a href="https://www.youtube.com/watch?v=B0x0NjeZcG0&feature=player_embedded
-" target="_blank"><img src="https://img.youtube.com/vi/FRyGIAOetac/maxresdefault.jpg" 
+" target="_blank"><img src="https://img.youtube.com/vi/B0x0NjeZcG0/maxresdefault.jpg" 
 alt="How to use Lottie animations in Flutter" width="480" border="10" /></a>
 
 ➜&ensp;[Watch My Video](https://www.youtube.com/watch?v=FRyGIAOetac "Watch My Video")
