@@ -1,5 +1,9 @@
-# Lottie Animation
-How to use Lottie animations in Flutter.
+# How to use Lottie animations in Flutter
+Video on youtube explaining in detail how it works: 
+https://www.youtube.com/watch?v=B0x0NjeZcG0
+
+article on medium explaining in detail how it works: 
+https://medium.com/@FlavioAro/how-to-use-lottie-animations-in-just-3-minutes-in-flutter-b4b39925d076
 
 #### Lottie
 A Lottie is a JSON-based animation file format. Lottie animation files can be used in cross-platform applications.
