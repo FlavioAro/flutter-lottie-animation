@@ -17,9 +17,9 @@ In this tutorial, we will learn how to use Lottie animations in Flutter using th
 https://pub.dev/packages/lottie
 
 ##### Version used in code:
-Dart 2.17.3
-Flutter 3.0.2
-Lottie 1.4.2
+|  Dart  | Flutter |  Lottie  |
+| ------ | ------- | -------- |
+| 2.17.3 |  3.0.2  |   1.4.2  |
 
 ##### Lottie archives link:
 https://lottiefiles.com
