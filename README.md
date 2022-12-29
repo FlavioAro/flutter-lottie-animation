@@ -6,7 +6,9 @@ Article on medium explaining in detail how it works:
 https://medium.com/@FlavioAro/how-to-use-lottie-animations-in-just-3-minutes-in-flutter-b4b39925d076
 
 #### Lottie
-A Lottie is a JSON-based animation file format. Lottie animation files can be used in cross-platform applications.
+Lottie is an open-source mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with Bodymovin and renders them natively on mobile. It is a great way to bring your designs to life and make your app more interactive and engaging.
+
+In this tutorial, we will learn how to use Lottie animations in Flutter using the "lottie" library.
 
 ### Type this command to install the Lottie package
 > flutter pub add lottie
