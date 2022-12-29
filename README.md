@@ -2,7 +2,7 @@
 Video on youtube explaining in detail how it works: 
 https://www.youtube.com/watch?v=B0x0NjeZcG0
 
-article on medium explaining in detail how it works: 
+Article on medium explaining in detail how it works: 
 https://medium.com/@FlavioAro/how-to-use-lottie-animations-in-just-3-minutes-in-flutter-b4b39925d076
 
 #### Lottie
